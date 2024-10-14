@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">JustClimb</string>
+    <string name="title_activity_viewer_mode">Map</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="first_fragment_label">First fragment label</string>
+    <string name="second_fragment_label">Second fragment label</string>
+
+
+    <string name="TextViewerMode">Visitor Mode reduces the functions of the application.</string>
+    <string name="crag_details">Crag detail</string>
+    <string name="add_crag">Add crag</string>
+    <string name="confirm_position">Confirm position</string>
+    <string name="coordinates_viewer">0,0</string>
+
+    <string name="new_crag_name_label">Name</string>
+    <string name="new_crag_description_label">Description</string>
+    <string name="new_crag_lat_label">Lat</string>
+    <string name="new_crag_lon_label">Lon</string>
+    <string name="create_crag">Create crag</string>
+
+    <string name="settings">Settings</string>
+    <string name="logout">LogOut</string>
+    <string name="title_activity_map_editor_mode">Map</string>
+    <string name="title_activity_map_viewer_mode">Map</string>
+
+    <!-- crag_detail-->
+    <string name="returnToMap">Return to Map</string>
+
+    <!-- Viewer -->
+    <string name="viewer_mode">Visitor mode</string>
+
+    <!-- Login -->
+    <string name="button_login">Login</string>
+    <string name="login_page_title"> Login </string>
+    <string name="login">Login</string>
+    <string name="TextLogin"> Please insert Email and Password </string>
+
+    <!-- Registration -->
+    <string name="button_registration">Registration</string>
+    <string name="registration_page_title">Registration</string>
+    <string name="textToLogin">Are you already registered?</string>
+    <string name="btnToLogin">LogIn!</string>
+    <string name="register">Register</string>
+
+    <!-- New Sector -->
+    <string name="hint_name">Sector name</string>
+    <string name ="Title_new_sector"> New Sector </string>
+
+    <string name="hint_route_name">name</string>
+    <string name="hint_route_grade">grade</string>
+    <string name="hint_route_lenght">lenght</string>
+    <string name="hint_route_note">note(optional)</string>
+
+    <string name="add_route">Add route</string>
+    <string name="create_sector">Create sector</string>
+
+    <!-- New Crag -->
+    <string name="Title_new_crag"> New Crag </string>
+    <string name="Text_new_crag"> Fill in all fields </string>
+
+    <!-- Setting -->
+    <string name="Setting_page_title"> Settings </string>
+    <string name="deleteAccount"> Delete Account </string>
+    <string name="editPSW"> Change Password </string>
+    <string name="editEmail"> Change Email </string>
+
+    <!-- Dialog confirm credential -->
+    <string name="current_psw"> Current Password </string>
+    <string name="new_psw"> New Passowrd </string>
+    <string name="confirm_psw"> Repet New Password </string>
+
+    <!-- Dialog confirm password -->
+    <string name="your_psw"> Password </string>
+
+    <!-- Toasts -->
+    <string name="toast_addSector_adding">Creating sector...</string>
+    <string name="toast_addSector_noSectorName">Please insert a sector name</string>
+    <string name="toast_addSector_emptyTable">Please insert at least one route</string>
+    <string name="toast_addSector_routeParamsUnsufficient">Please fill all the required information</string>
+    <string name="toast_addNote_too_long">Max 60 characters</string>
+
+    <!-- Notes -->
+    <string name="hint_note">Insert here your new note</string>
+    <string name="add_note">Add note</string>
+    <string name="returnToCrag_detail"> Crag Detail</string>
+    <string name="edit_grade">Vote Grade</string>
+
+
+</resources>
